@@ -1,0 +1,29 @@
+body{
+	
+	margin: 0px;
+	padding: 0px;
+	font-family: monospace;
+}
+.header{
+	background-color: black;
+	height: 80px;
+	width: 100%;
+}
+.welcome{
+	float: left;
+	padding-left: 25px;
+	color: white;
+}
+.welcome h1{
+	font-size: 30px;
+}
+.button{
+	float: right;
+	padding: 20px;
+}
+.button button{
+	height: 40px;
+	width: 100px;
+	background-color: #ffd369;
+	border: none;
+	

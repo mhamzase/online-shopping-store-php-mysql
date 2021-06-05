@@ -1,0 +1,51 @@
+*{
+	padding:0;
+	margin:0;
+	font-family: Montserrat;
+}
+body{
+	background-image: url("bg.jpg");
+	background-size: cover;
+}
+.heading{
+	text-align: center;
+	background-color:#ffd369;
+	position: relative;
+	margin-top: -84px;
+	padding: 10px;
+	margin-bottom: 10px;
+	width: 170px;
+	margin-left: 33PX;
+
+
+}
+.registration{
+	margin-top: 100px;
+	border-color: white;
+	margin-left: 37%;
+	margin-right: 37%;
+	padding: 40px;
+      height: 300px ;
+	padding-top: 60px;
+	position: relative;
+	background-color: white;
+	box-shadow: 2px 2px 15px white ;
+}
+.registration input{
+
+	width: 240px;
+	height: 28px;
+	margin: 10px;
+	padding-left: 10px;
+	border: 1px solid black; 
+
+}
+.registration button{
+	background-color: #ffd369;
+	width: 245px;
+	height: 33px;
+	border: none;
+	margin-left: 10px;
+	margin-top: 10px;
+	cursor: pointer;
+}

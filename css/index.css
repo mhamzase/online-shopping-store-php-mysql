@@ -1,0 +1,80 @@
+*{
+    font-family: Montserrat;
+}
+.bodybtn{
+    width:30%;
+    height:230px;
+    background-color:skyblue;
+    margin:20px;
+    cursor:pointer;
+    border:none;
+    font-size:25px;
+}
+.erorrMessage{
+    color:red;
+    text-align:center;
+}
+.successMessage{
+    color:blue;
+    text-align:center;
+}
+.filterBtn ,  .searchBtn{
+    width:150px;
+    height:40px;
+    font-size:15px;
+    background-color:#3c6c99;
+    color:white;
+    padding:10px;
+    border:none;
+    cursor:pointer;
+}
+#view{
+    background-color:#4ead67;
+    color:white;
+    width:250px;
+    height:30px;
+    border:none;
+    cursor:pointer;
+}
+#color{
+    width:260px;
+    height:36px;
+    font-size:18px;
+}
+#size{
+    width:260px;
+    height:36px;
+    font-size:18px;
+}
+.bodybtn{
+    width:15%;
+    height:50px;
+    background-color:#2b2b2a;
+    margin-left:25%;
+    cursor:pointer;
+    border:none;
+    font-size:25px;
+    color:white
+}
+.filterDiv{
+    float:left;
+    width:30%;
+    height:40px;
+    border:1px solid lightgray;
+    text-align:center;
+    padding:30px;
+    margin-left:10%;
+}
+.searchProduct{
+    float:right;
+    width:40%;
+    height:40px;
+    border:1px solid lightgray;
+    text-align:center;
+    padding:30px;
+    margin-right:10%;
+}
+#category{
+    height:40px;
+    width:250px;	
+}
